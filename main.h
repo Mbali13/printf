@@ -6,6 +6,8 @@
 #include <stdlib.h>
 #include <unistd.h>
 
+
+
 /**
  * struct format - converter for printf
  * @ph: type char pointer of the specifier
@@ -36,11 +38,9 @@ int print_i(va_list args);
 int print_d(va_list args);
 int _strlen(char *s);
 int rev_string(char *s);
-int _strlen(char *str);
-int _strlenc(const char *str);
-int print_13(void);
-int printf_char(va_list val);
-int printf_string(va_list val);
+int print_37(void);
+int print_c(va_list val);
+int print_s(va_list val);
 int _putchar(char c);
 int _printf(const char *format, ...);
 
