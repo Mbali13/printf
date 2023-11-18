@@ -4,7 +4,6 @@
  * @args: argument to print
  * Return: integer
  */
-
 int print_d(va_list args)
 {
 	int n = va_arg(args, int);
