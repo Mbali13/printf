@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_bin - prints binary number.
- * @val: parameter.
+ * print_bin - prints binary number
+ * @val: parameter
  * Return: integer
  */
 int print_bin(va_list val)
