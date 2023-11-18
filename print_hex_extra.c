@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * print_HEX_extra - prints an hexgecimal number.
- * @num: number to print.
- * Return: counter.
+ * print_HEX_extra - prints an hexgecimal number
+ * @num: number to print
+ * Return: counter
  */
 int print_HEX_extra(unsigned int num)
 {
